@@ -18,8 +18,9 @@ I am currently 19, and I am working my way up to call myself a developer.  I am 
 
 Stuff to know about me:
 I love the outdoors.
-I am a Huge Football and Baseball Fan. Ny teams are the San Francisco 49ers and the Boston RedSox
-I worked in the restaurant industry for about 1 1/2 years and the drilling industry for about 8 months
+I am a Huge Football and Baseball Fan.
+My teams are the San Francisco 49ers and the Boston RedSox.
+I worked in the restaurant industry for about 1 1/2 years and the drilling industry for about 8 months.
 My hobbies include snowboarding, driving around and watching movies.
 
 How to Reach Me:
