@@ -14,7 +14,7 @@ z6chy@icloud.com
 **ZachYentsch/ZachYentsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I'm Zach! Welcome to my github profile.
-I am currently 19, and I am working my way up to call myself a developer.  I am currently in enrolled in Boise Codeworks Full Stack Bootcamp. I enjoy solving problems and  engaging in critical thinking. I like that coding has an endless learning pursuit with all kinds of languages to learn. 
+I am working my way up to call myself a developer.  I am currently in enrolled in Boise Codeworks Full Stack Bootcamp. I enjoy solving problems and  engaging in critical thinking. I like that coding has an endless learning pursuit with all kinds of languages to learn. 
 
 Stuff to know about me:
 I love the outdoors.
